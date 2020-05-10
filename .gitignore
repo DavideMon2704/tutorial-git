@@ -1,0 +1,9 @@
+#Ignora tutto
+*
+
+#Eccezzioni
+!*.txt
+!*.png
+!*.gif
+!*.jpg
+!*.gitignore
